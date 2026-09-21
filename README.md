@@ -1,7 +1,6 @@
 # PlateCheck
 
-Simple web app to log Nigerian meals (jollof, eba, spaghetti, fish, eggs, biscuits), see BMI, estimated daily burn, and whether today is a deficit.
+Log any food by name. Size it by eye portion, plate, grams, pack/pieces, or exact kcal.
+Lipton with sweetener is treated as ~0–4 kcal.
 
-Open `index.html` or drop the folder on Netlify.
-
-Estimates only. The scale over 2–3 weeks is the real answer.
+Open index.html or host the folder on Netlify.
